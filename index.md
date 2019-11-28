@@ -4,22 +4,21 @@
  
  
 
-#### Solar Systems Techs ##### _Network Administration_
+##### Solar Systems Techs <br>_Network Administration_
  July 2007—Current 
 - Solution Planning and Implementation of
 - Residential & Commercial Computer Wired/Wireless
 - Networks, Hardware, and Workstations  
 
 
-#### Wow Technologies, Lafayette, LA ##### _Network Administration_
+##### Wow Technologies, Lafayette, LA <br>_Network Administration_
 January 2008 – August 2008
-Service Level Agreement Maintenance of
-Commercial Computer Systems and Networks
-Lafayette, Louisiana and Surrounding Areas
+ - Service Level Agreement Maintenance of
+ - Commercial Computer Systems and Networks
+ - Lafayette, Louisiana and Surrounding Areas
 
 
-#### Information Systems Solutions, Ville Platte, LA
-##### _Network Administration/Repair Technician_
+##### Information Systems Solutions, Ville Platte, LA <br>_Network Administration/Repair Technician_
 July 2006 – July 2007
 Consulted and Configured for Install/Maintenance/Configuration of
 Wired and Wireless Networks, Security, Personal and Business
