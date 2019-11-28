@@ -30,15 +30,17 @@ July 2006 – July 2007
 
 ##### James Manuel of Manuel Electronics, Mamou, LA<br>_IT Admin/Helpdesk_
 August 2005 – August 2006
-Web design, system support, LAN/WiLAN,
-OS installation; medical office management
-system installation; general computer repair; helpdesk
+ - Web design, system support, LAN/WiLAN,
+ - OS installation
+ - Medical Office Management System installation; 
+ - General computer repair
+ - Helpdesk
 
 ##### Allen Parish School Board, IT Dept., Oberlin, LA<br>_IT Admin/Helpdesk_
 Temp/Contract
 June 2004 – August 2004
-Installation and maintenance of LAN, WAN, WiLAN/WAN,
-General OS and hardware troubleshooting and repair
+ - Installation and maintenance of LAN, WAN, WiLAN/WAN,
+ - General OS and hardware troubleshooting and repair
 
 ##### Physical Therapy Services of Church Point<br>_IT Admin, Clinic Assistant_
 October 2003 – August 2005 (second of two instances with this employer)
