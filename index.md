@@ -13,7 +13,7 @@
 
 
 #### Wow Technologies, Lafayette, LA
-##### _Network Administration
+##### _Network Administration_
 January 2008 – August 2008
 Service Level Agreement Maintenance of
 Commercial Computer Systems and Networks
@@ -21,7 +21,7 @@ Lafayette, Louisiana and Surrounding Areas
 
 
 #### Information Systems Solutions, Ville Platte, LA
-##### _Network Administration/Repair Technician
+##### _Network Administration/Repair Technician_
 July 2006 – July 2007
 Consulted and Configured for Install/Maintenance/Configuration of
 Wired and Wireless Networks, Security, Personal and Business
@@ -29,14 +29,14 @@ Laptops and Desktops of Windows and Linux Operating Systems
 Both In-House and On-site
 
 #### James Manuel of Manuel Electronics, Mamou, LA
-##### _IT Admin/Helpdesk
+##### _IT Admin/Helpdesk_
 August 2005 – August 2006
 Web design, system support, LAN/WiLAN,
 OS installation; medical office management
 system installation; general computer repair; helpdesk
 
 #### Allen Parish School Board, IT Dept., Oberlin, LA
-##### _IT Admin/Helpdesk
+##### _IT Admin/Helpdesk_
 Temp/Contract
 June 2004 – August 2004
 Installation and maintenance of LAN, WAN, WiLAN/WAN,
@@ -53,7 +53,7 @@ October 2003 – August 2005 (second of two instances with this employer)
 
 
 #### Centennial Peaks Hospital, Louisville, CO
-##### _Medical Clerk/Unit Secretary (4 units)
+##### _Medical Clerk/Unit Secretary (4 units)_
 May 2002 – September 2003
 Patient chart auditing, transcribing physician’s
 Orders to the medical administration record,
@@ -68,7 +68,7 @@ Activities, material management;
 2 Operation of a 22 line PBX with 400 extensions
 
 #### Physical Therapy Services of Church Point
-##### _Physical Therapy Aide/Office Assistant
+##### _Physical Therapy Aide/Office Assistant_
 August 1999 – January 2000
 Duties included insurance billing, transcription
 Of orthopedic and clinical Dictaphone progress notes,
@@ -77,5 +77,5 @@ Performing treatment under the direction of
 Clinician
 
 #### Erma J. Manuel, CPA
-##### _General Office Duties
+##### _General Office Duties_
 May 1996 – June 1999
