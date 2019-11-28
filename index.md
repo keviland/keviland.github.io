@@ -4,16 +4,14 @@
  
  
 
-#### Solar Systems Techs 
-##### _Network Administration_
+#### Solar Systems Techs ##### _Network Administration_
  July 2007—Current 
 - Solution Planning and Implementation of
 - Residential & Commercial Computer Wired/Wireless
 - Networks, Hardware, and Workstations  
 
 
-#### Wow Technologies, Lafayette, LA
-##### _Network Administration_
+#### Wow Technologies, Lafayette, LA ##### _Network Administration_
 January 2008 – August 2008
 Service Level Agreement Maintenance of
 Commercial Computer Systems and Networks
