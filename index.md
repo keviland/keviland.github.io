@@ -61,17 +61,18 @@ May 2002 – September 2003
 
 ##### New Horizons/Savoy Medical Ctr, Mamou<br>Mental Health Tech/PBX Operator
 January 2000 – January 2001
- - Auditing patient charts, phlebotomy, supervising patient
-   Activities, material management;
- - Operation of a 22 line PBX with 400 extensions
+ - Auditing patient chart
+ - Phlebotomy
+ - Conducting Therapeutic Activities
+ - Material Management
+ - Operation of a 22 line PBX with 400 extensions, (separate shift)
 
 ##### Physical Therapy Services of Church Point<br>_Physical Therapy Aide/Office Assistant_
 August 1999 – January 2000
-Duties included insurance billing, transcription
-Of orthopedic and clinical Dictaphone progress notes,
-Supervising patient treatment/modalities;
-Performing treatment under the direction of
+ - Insurance billing
+ - Medical Transcription
+ - Performing treatment under the direction of
 Clinician
 
-#### Erma J. Manuel, CPA<br>_General Office Duties_
+##### Erma J. Manuel, CPA<br>_General Office Duties_
 May 1996 – June 1999
