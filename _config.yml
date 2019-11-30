@@ -1,6 +1,6 @@
 theme: jekyll-theme-modernist
-
-plugins:
+github:
+  repository_url: https://cloud.disroot.org/remote.php/dav/calendars/alibiagent/keviland/plugins:
   - "jekyll-github-metadata"
 {% raw %}{% seo %}{% endraw %}
 repository: keviland/keviland.github.io
