@@ -1,5 +1,6 @@
 theme: jekyll-theme-modernist
 
+plugins:
+  - "jekyll-github-metadata"
 
-- name: Setup Node.js for use with actions
-uses: actions/setup-node@v1.1.0
+repository: keviland/keviland.github.io
