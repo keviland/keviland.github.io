@@ -1,8 +1,8 @@
 theme: jekyll-theme-modernist
 github:
-  repository_url: https://cloud.disroot.org/remote.php/dav/calendars/alibiagent/keviland/plugins:
-  - "jekyll-github-metadata"
-{% raw %}{% seo %}{% endraw %}
+  repository_url: https://cloud.disroot.org/remote.php/dav/calendars/alibiagent/keviland/
+plugins:
+  "jekyll-github-metadata"
 repository: keviland/keviland.github.io
 "owner_name": "Kevin Landreneau", 
 "owner_url": "https://github.com/keviland/keviland.github.io", 
