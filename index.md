@@ -20,12 +20,12 @@ January 2008 – August 2008
 
 ##### Information Systems Solutions, Ville Platte, LA<br>_Network Administration/Repair_
 July 2006 – July 2007
- - Consulted and Configured for
-   - Install/Maintenance/Configuration of
+ - Consulted and Configured
      - Wired and Wireless Networks
      - Security
      - Personal and Business
-  - Laptops and Desktops of Windows and Linux Operating Systems
+ - Laptops and Desktops
+     - Windows and Linux Operating Systems
  - In-House and On-site
 
 ##### James Manuel of Manuel Electronics, Mamou, LA<br>_IT Admin/Helpdesk_
@@ -33,7 +33,7 @@ August 2005 – August 2006
  - Web design, system support, LAN/WiLAN,
  - OS installation
  - Medical Office Management System installation; 
- - General computer repair
+ - General Computer Repair
  - Helpdesk
 
 ##### Allen Parish School Board, IT Dept., Oberlin, LA<br>_IT Admin/Helpdesk_
