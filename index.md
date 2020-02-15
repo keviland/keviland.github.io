@@ -1,5 +1,5 @@
 ### Kevin P Landreneau 
-#### Network Administration & Residential Repair based in Anacoco, Louisiana.
+#### Network Administration & Residential Repair based in Evangeline Parish, Louisiana.
 ###### 337-526-4896 | keviland@icloud.com
  
  
