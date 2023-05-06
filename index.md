@@ -1,7 +1,7 @@
 ### Kevin P Landreneau                    
 #### Network Administration & Residential Repair based in Evangeline Parish, Louisiana.
 #### LINUX | WINDOWS | MAC | ANDROID 
-###### 337-418-1717 | kpl@keviland.com
+###### 337-418-1717 | kevin@keviland.com
  
  
 
