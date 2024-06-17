@@ -57,10 +57,10 @@ October 2003 – August 2005 (second of two instances with this employer)
 
 ##### Centennial Peaks Hospital, Louisville, CO<br>_Medical Clerk/Unit Secretary_
 May 2002 – September 2003
- - Patient chart auditing, transcribing physician’s
-   Orders to the medical administration record,
+ - Patient chart auditing, transcription of physician’s
+   orders to the medical administration record,
  - Admitting/discharging/education of patients,
- - New employee training and supervision;
+ - New employee training;
  - Creation of admit/discharge policy and procedure handbook
 
 ##### New Horizons/Savoy Medical Ctr, Mamou<br>Mental Health Tech/PBX Operator
