@@ -1,4 +1,4 @@
-<a href="resume.pdf">Printable PDF Resume</a>
+<a href="Resume_rev0724.pdf">Printable PDF Resume</a>
 
 ### Kevin P Landreneau                    
 #### Commercial Network Administration & Residential Repair; Wireless Infrastructure; Consultation; Information Management
